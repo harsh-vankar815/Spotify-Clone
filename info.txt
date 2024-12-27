@@ -1,0 +1,4 @@
+I make functions for edit delete and add. aur in sabko buttons me click event me de dunga
+todos ek array hai joki hamare sare todo ko hold karta hai aur todo jo hai hamara input text hai
+
+uuid npm to ye package kya karta hai ki unique ids banane me hamlogo ko help karta hai
